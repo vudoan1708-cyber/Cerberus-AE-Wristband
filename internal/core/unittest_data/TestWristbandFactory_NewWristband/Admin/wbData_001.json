@@ -1,0 +1,3602 @@
+[
+  {
+    "time": "2021-04-18 16:53:11.018327",
+    "sensorData": {
+      "respiration": 20,
+      "sp02": 97,
+      "pulse": 61,
+      "temperature": 36.2,
+      "bloodPressure": 150,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 100,
+    "location": [
+      {
+        "bridge": {
+          "id": "GQYz8sOJF",
+          "msid": 185946139,
+          "type": 1733882994,
+          "typeVer": 4,
+          "key": "pKtNh",
+          "tic": "DNqRyl7NpG"
+        },
+        "signal": -34
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.025308",
+    "sensorData": {
+      "respiration": 18,
+      "sp02": 96,
+      "pulse": 68,
+      "temperature": 37.3,
+      "bloodPressure": 145,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "PCkW5vmAi",
+          "msid": 472264293,
+          "type": 6819217386,
+          "typeVer": 8,
+          "key": "UWbXG",
+          "tic": "ZtTjckHZPz"
+        },
+        "signal": -33
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.027304",
+    "sensorData": {
+      "respiration": 18,
+      "sp02": 96,
+      "pulse": 51,
+      "temperature": 37.3,
+      "bloodPressure": 174,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 81,
+    "location": [
+      {
+        "bridge": {
+          "id": "u3RuWvci5",
+          "msid": 887668124,
+          "type": 7329603789,
+          "typeVer": 6,
+          "key": "tjf2H",
+          "tic": "SucNsAkiTm"
+        },
+        "signal": -50
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.028300",
+    "sensorData": {
+      "respiration": 17,
+      "sp02": 97,
+      "pulse": 57,
+      "temperature": 36.8,
+      "bloodPressure": 204,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 86,
+    "location": [
+      {
+        "bridge": {
+          "id": "adnovmi9S",
+          "msid": 887049796,
+          "type": 6478280491,
+          "typeVer": 8,
+          "key": "sxhAM",
+          "tic": "tMMDOPGKY9"
+        },
+        "signal": -56
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.029298",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 98,
+      "pulse": 68,
+      "temperature": 37.9,
+      "bloodPressure": 159,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "MiOp5egkb",
+          "msid": 736951038,
+          "type": 8796194892,
+          "typeVer": 5,
+          "key": "1Lrwu",
+          "tic": "3C5c9UjFRW"
+        },
+        "signal": -52
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.030297",
+    "sensorData": {
+      "respiration": 19,
+      "sp02": 99,
+      "pulse": 90,
+      "temperature": 36.7,
+      "bloodPressure": 212,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 82,
+    "location": [
+      {
+        "bridge": {
+          "id": "dGQrAAFJk",
+          "msid": 899923838,
+          "type": 7404961737,
+          "typeVer": 0,
+          "key": "GMLeD",
+          "tic": "xMWrnXAhDO"
+        },
+        "signal": -41
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.031293",
+    "sensorData": {
+      "respiration": 13,
+      "sp02": 96,
+      "pulse": 54,
+      "temperature": 36.3,
+      "bloodPressure": 116,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 92,
+    "location": [
+      {
+        "bridge": {
+          "id": "4BsJ9Wqcy",
+          "msid": 312773874,
+          "type": 6495919500,
+          "typeVer": 9,
+          "key": "tfXx5",
+          "tic": "1VFO3hePNb"
+        },
+        "signal": -54
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.031293",
+    "sensorData": {
+      "respiration": 13,
+      "sp02": 97,
+      "pulse": 51,
+      "temperature": 37.2,
+      "bloodPressure": 147,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 88,
+    "location": [
+      {
+        "bridge": {
+          "id": "byqLXRnNF",
+          "msid": 256702672,
+          "type": 947173943,
+          "typeVer": 7,
+          "key": "9RS8d",
+          "tic": "Bx11taDJRA"
+        },
+        "signal": -40
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.033286",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 98,
+      "pulse": 83,
+      "temperature": 37.5,
+      "bloodPressure": 217,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 100,
+    "location": [
+      {
+        "bridge": {
+          "id": "4w9Ivbmhq",
+          "msid": 675300603,
+          "type": 1318582825,
+          "typeVer": 3,
+          "key": "mrBZm",
+          "tic": "00UbBcwLVu"
+        },
+        "signal": -56
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.033286",
+    "sensorData": {
+      "respiration": 17,
+      "sp02": 98,
+      "pulse": 68,
+      "temperature": 36.6,
+      "bloodPressure": 215,
+      "motion": true,
+      "proximity": true
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 95,
+    "location": [
+      {
+        "bridge": {
+          "id": "HyB4wKQsc",
+          "msid": 762609873,
+          "type": 6349090668,
+          "typeVer": 8,
+          "key": "xeGi2",
+          "tic": "Gvt7xcdiiP"
+        },
+        "signal": -64
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.035282",
+    "sensorData": {
+      "respiration": 21,
+      "sp02": 95,
+      "pulse": 91,
+      "temperature": 36,
+      "bloodPressure": 212,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 98,
+    "location": [
+      {
+        "bridge": {
+          "id": "jUD3Uxwwp",
+          "msid": 718660755,
+          "type": 9369969709,
+          "typeVer": 0,
+          "key": "XuWfo",
+          "tic": "4fO93sdwld"
+        },
+        "signal": -63
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.035282",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 91,
+      "pulse": 48,
+      "temperature": 39,
+      "bloodPressure": 185,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 3,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 93,
+    "location": [
+      {
+        "bridge": {
+          "id": "GeCjt7rfV",
+          "msid": 507359090,
+          "type": 2319132075,
+          "typeVer": 5,
+          "key": "NvumC",
+          "tic": "qOWrlNTtfn"
+        },
+        "signal": -52
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.036282",
+    "sensorData": {
+      "respiration": 23,
+      "sp02": 92,
+      "pulse": 118,
+      "temperature": 35,
+      "bloodPressure": 134,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 9
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "J2hq9SJDp",
+          "msid": 111958841,
+          "type": 198807678,
+          "typeVer": 7,
+          "key": "ggHay",
+          "tic": "iPSI1OeabF"
+        },
+        "signal": -44
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.036282",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 99,
+      "pulse": 63,
+      "temperature": 36,
+      "bloodPressure": 199,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "vSbx5uJuk",
+          "msid": 216887885,
+          "type": 564437213,
+          "typeVer": 5,
+          "key": "6si4s",
+          "tic": "Lt7u6JeJi9"
+        },
+        "signal": -46
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.037277",
+    "sensorData": {
+      "respiration": 19,
+      "sp02": 96,
+      "pulse": 92,
+      "temperature": 37,
+      "bloodPressure": 208,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "EmNvmtoSO",
+          "msid": 471314199,
+          "type": 5316963164,
+          "typeVer": 4,
+          "key": "425O7",
+          "tic": "JYx6MoBnzm"
+        },
+        "signal": -52
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.037277",
+    "sensorData": {
+      "respiration": 17,
+      "sp02": 94,
+      "pulse": 55,
+      "temperature": 38,
+      "bloodPressure": 192,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 88,
+    "location": [
+      {
+        "bridge": {
+          "id": "4pD18zxdS",
+          "msid": 169776352,
+          "type": 250713360,
+          "typeVer": 0,
+          "key": "JqrUz",
+          "tic": "vUc1FbI71C"
+        },
+        "signal": -55
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.038275",
+    "sensorData": {
+      "respiration": 22,
+      "sp02": 97,
+      "pulse": 107,
+      "temperature": 37,
+      "bloodPressure": 184,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 93,
+    "location": [
+      {
+        "bridge": {
+          "id": "JxdjZ2GYb",
+          "msid": 946749803,
+          "type": 6388556826,
+          "typeVer": 3,
+          "key": "g3Jej",
+          "tic": "XrXyfxEjGU"
+        },
+        "signal": -61
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.039271",
+    "sensorData": {
+      "respiration": 13,
+      "sp02": 99,
+      "pulse": 80,
+      "temperature": 35,
+      "bloodPressure": 135,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 100,
+    "location": [
+      {
+        "bridge": {
+          "id": "5S3iNmwJi",
+          "msid": 823684926,
+          "type": 9592581683,
+          "typeVer": 5,
+          "key": "DPB2J",
+          "tic": "nZjgi88H2n"
+        },
+        "signal": -63
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.039271",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 98,
+      "pulse": 78,
+      "temperature": 36,
+      "bloodPressure": 181,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 100,
+    "location": [
+      {
+        "bridge": {
+          "id": "akZe1zspn",
+          "msid": 833815256,
+          "type": 4427054035,
+          "typeVer": 7,
+          "key": "B8LRK",
+          "tic": "IAt1hedwM0"
+        },
+        "signal": -59
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.040269",
+    "sensorData": {
+      "respiration": 16,
+      "sp02": 96,
+      "pulse": 77,
+      "temperature": 39,
+      "bloodPressure": 98,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 100,
+    "location": [
+      {
+        "bridge": {
+          "id": "vsM9E0Ttj",
+          "msid": 952786583,
+          "type": 3078183148,
+          "typeVer": 0,
+          "key": "82XNi",
+          "tic": "iJ1UcyUeKD"
+        },
+        "signal": -45
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.041266",
+    "sensorData": {
+      "respiration": 19,
+      "sp02": 93,
+      "pulse": 45,
+      "temperature": 38,
+      "bloodPressure": 105,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 1,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 100,
+    "location": [
+      {
+        "bridge": {
+          "id": "xS6NHaPDc",
+          "msid": 398010413,
+          "type": 4696506021,
+          "typeVer": 6,
+          "key": "bfaQw",
+          "tic": "kpdZ3e5RWk"
+        },
+        "signal": -62
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.041266",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 96,
+      "pulse": 117,
+      "temperature": 35,
+      "bloodPressure": 206,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 99,
+    "location": [
+      {
+        "bridge": {
+          "id": "G5diTaoUQ",
+          "msid": 157529387,
+          "type": 9448656391,
+          "typeVer": 4,
+          "key": "KKx8s",
+          "tic": "DRpUDJynLF"
+        },
+        "signal": -47
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.042262",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 95,
+      "pulse": 120,
+      "temperature": 35,
+      "bloodPressure": 100,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 8
+    },
+    "batteryLevel": 99,
+    "location": [
+      {
+        "bridge": {
+          "id": "BlkUqxKjf",
+          "msid": 7529092,
+          "type": 3302896168,
+          "typeVer": 4,
+          "key": "9k85w",
+          "tic": "xQacByCI9o"
+        },
+        "signal": -62
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.043010",
+    "sensorData": {
+      "respiration": 22,
+      "sp02": 94,
+      "pulse": 65,
+      "temperature": 38,
+      "bloodPressure": 95,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 99,
+    "location": [
+      {
+        "bridge": {
+          "id": "FaOa0QfSE",
+          "msid": 265362002,
+          "type": 5674558416,
+          "typeVer": 3,
+          "key": "gBtFQ",
+          "tic": "KWQBdeNR2x"
+        },
+        "signal": -65
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.044000",
+    "sensorData": {
+      "respiration": 23,
+      "sp02": 92,
+      "pulse": 128,
+      "temperature": 35,
+      "bloodPressure": 132,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 9
+    },
+    "batteryLevel": 97,
+    "location": [
+      {
+        "bridge": {
+          "id": "c1AZBl17q",
+          "msid": 490642973,
+          "type": 6644263327,
+          "typeVer": 5,
+          "key": "sxP9F",
+          "tic": "NCyk371JFa"
+        },
+        "signal": -64
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.045000",
+    "sensorData": {
+      "respiration": 24,
+      "sp02": 91,
+      "pulse": 41,
+      "temperature": 39,
+      "bloodPressure": 202,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 3,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 7
+    },
+    "batteryLevel": 99,
+    "location": [
+      {
+        "bridge": {
+          "id": "XRUWWVcCb",
+          "msid": 834776023,
+          "type": 924662931,
+          "typeVer": 3,
+          "key": "Ui7sx",
+          "tic": "glHc5aOoEq"
+        },
+        "signal": -64
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.045996",
+    "sensorData": {
+      "respiration": 23,
+      "sp02": 95,
+      "pulse": 49,
+      "temperature": 39,
+      "bloodPressure": 158,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 96,
+    "location": [
+      {
+        "bridge": {
+          "id": "SIS1LjxLg",
+          "msid": 440028720,
+          "type": 8031426968,
+          "typeVer": 6,
+          "key": "8pf7J",
+          "tic": "ibefOkU3IR"
+        },
+        "signal": -64
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.046993",
+    "sensorData": {
+      "respiration": 21,
+      "sp02": 93,
+      "pulse": 82,
+      "temperature": 35,
+      "bloodPressure": 195,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 7
+    },
+    "batteryLevel": 96,
+    "location": [
+      {
+        "bridge": {
+          "id": "ll3wjYWS9",
+          "msid": 356136493,
+          "type": 1925582965,
+          "typeVer": 4,
+          "key": "rnLCH",
+          "tic": "5A6PUDjFmP"
+        },
+        "signal": -66
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.046993",
+    "sensorData": {
+      "respiration": 19,
+      "sp02": 92,
+      "pulse": 79,
+      "temperature": 39,
+      "bloodPressure": 152,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 93,
+    "location": [
+      {
+        "bridge": {
+          "id": "gOMyDfDow",
+          "msid": 833184543,
+          "type": 1095990693,
+          "typeVer": 2,
+          "key": "qTBq0",
+          "tic": "GZTA01MvHU"
+        },
+        "signal": -70
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.047990",
+    "sensorData": {
+      "respiration": 11,
+      "sp02": 98,
+      "pulse": 54,
+      "temperature": 35,
+      "bloodPressure": 182,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 95,
+    "location": [
+      {
+        "bridge": {
+          "id": "nxTeGQCy7",
+          "msid": 184545204,
+          "type": 9131375063,
+          "typeVer": 2,
+          "key": "KG8Ri",
+          "tic": "t8L6XoDg8l"
+        },
+        "signal": -52
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.048987",
+    "sensorData": {
+      "respiration": 20,
+      "sp02": 93,
+      "pulse": 60,
+      "temperature": 38,
+      "bloodPressure": 144,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 95,
+    "location": [
+      {
+        "bridge": {
+          "id": "QyELD7456",
+          "msid": 378460151,
+          "type": 9137155871,
+          "typeVer": 8,
+          "key": "dqE93",
+          "tic": "wCLfvv6xGg"
+        },
+        "signal": -68
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.049985",
+    "sensorData": {
+      "respiration": 24,
+      "sp02": 97,
+      "pulse": 108,
+      "temperature": 36,
+      "bloodPressure": 204,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 92,
+    "location": [
+      {
+        "bridge": {
+          "id": "BRGwlEOb7",
+          "msid": 722781039,
+          "type": 4257050995,
+          "typeVer": 4,
+          "key": "2SMUn",
+          "tic": "QKKsmhVORS"
+        },
+        "signal": -41
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.049985",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 98,
+      "pulse": 48,
+      "temperature": 38,
+      "bloodPressure": 146,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 75,
+    "location": [
+      {
+        "bridge": {
+          "id": "B0OU4hJrg",
+          "msid": 937500333,
+          "type": 5539126078,
+          "typeVer": 6,
+          "key": "wg30C",
+          "tic": "vf5m6z8fJM"
+        },
+        "signal": -50
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.050982",
+    "sensorData": {
+      "respiration": 25,
+      "sp02": 93,
+      "pulse": 121,
+      "temperature": 36,
+      "bloodPressure": 173,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 8
+    },
+    "batteryLevel": 72,
+    "location": [
+      {
+        "bridge": {
+          "id": "jYYiGcJw4",
+          "msid": 53585744,
+          "type": 2118370389,
+          "typeVer": 3,
+          "key": "4dOuJ",
+          "tic": "BXRupGNH3W"
+        },
+        "signal": -70
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.051980",
+    "sensorData": {
+      "respiration": 21,
+      "sp02": 99,
+      "pulse": 95,
+      "temperature": 39,
+      "bloodPressure": 125,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 78,
+    "location": [
+      {
+        "bridge": {
+          "id": "eXcMe755L",
+          "msid": 254940774,
+          "type": 7716961572,
+          "typeVer": 2,
+          "key": "x7Ffo",
+          "tic": "wlqUMRvITy"
+        },
+        "signal": -30
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.052977",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 94,
+      "pulse": 46,
+      "temperature": 39,
+      "bloodPressure": 151,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 79,
+    "location": [
+      {
+        "bridge": {
+          "id": "Q0eSy5nX9",
+          "msid": 241893568,
+          "type": 7546243297,
+          "typeVer": 2,
+          "key": "dmOzC",
+          "tic": "Kxp3JS5F91"
+        },
+        "signal": -60
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.053992",
+    "sensorData": {
+      "respiration": 8,
+      "sp02": 97,
+      "pulse": 94,
+      "temperature": 36,
+      "bloodPressure": 190,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 74,
+    "location": [
+      {
+        "bridge": {
+          "id": "wfdQw79DR",
+          "msid": 508533417,
+          "type": 5701747315,
+          "typeVer": 7,
+          "key": "hFGUk",
+          "tic": "FX3oY3c4mx"
+        },
+        "signal": -61
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.055970",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 97,
+      "pulse": 121,
+      "temperature": 39,
+      "bloodPressure": 158,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 68,
+    "location": [
+      {
+        "bridge": {
+          "id": "9RyJWRiPI",
+          "msid": 982172920,
+          "type": 4833632057,
+          "typeVer": 7,
+          "key": "E0KZ9",
+          "tic": "uLrqdGUUQi"
+        },
+        "signal": -55
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.056968",
+    "sensorData": {
+      "respiration": 8,
+      "sp02": 92,
+      "pulse": 65,
+      "temperature": 37,
+      "bloodPressure": 94,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 7
+    },
+    "batteryLevel": 69,
+    "location": [
+      {
+        "bridge": {
+          "id": "nTsSHGqh4",
+          "msid": 393655205,
+          "type": 7839469636,
+          "typeVer": 6,
+          "key": "Ad4xt",
+          "tic": "3VlzcW182A"
+        },
+        "signal": -39
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.057964",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 91,
+      "pulse": 99,
+      "temperature": 35,
+      "bloodPressure": 186,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 3,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 7
+    },
+    "batteryLevel": 85,
+    "location": [
+      {
+        "bridge": {
+          "id": "96vvpgKaV",
+          "msid": 178228381,
+          "type": 8239229007,
+          "typeVer": 4,
+          "key": "OqU2E",
+          "tic": "DQwmqmTdci"
+        },
+        "signal": -47
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.058961",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 94,
+      "pulse": 40,
+      "temperature": 38,
+      "bloodPressure": 97,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 3,
+      "temperature": 0,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 86,
+    "location": [
+      {
+        "bridge": {
+          "id": "07b89UzeI",
+          "msid": 402934298,
+          "type": 1640030975,
+          "typeVer": 4,
+          "key": "4RdfB",
+          "tic": "v1bKnsJXC9"
+        },
+        "signal": -67
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.058961",
+    "sensorData": {
+      "respiration": 18,
+      "sp02": 98,
+      "pulse": 94,
+      "temperature": 37,
+      "bloodPressure": 158,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 77,
+    "location": [
+      {
+        "bridge": {
+          "id": "rRVdfDSv9",
+          "msid": 539483790,
+          "type": 5396084679,
+          "typeVer": 5,
+          "key": "aGwmq",
+          "tic": "FabVP2RIL3"
+        },
+        "signal": -44
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.059958",
+    "sensorData": {
+      "respiration": 8,
+      "sp02": 96,
+      "pulse": 109,
+      "temperature": 37,
+      "bloodPressure": 160,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 87,
+    "location": [
+      {
+        "bridge": {
+          "id": "79qbV41Rg",
+          "msid": 61234566,
+          "type": 241776218,
+          "typeVer": 1,
+          "key": "HhnEM",
+          "tic": "92qjx7kGVR"
+        },
+        "signal": -46
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.059958",
+    "sensorData": {
+      "respiration": 9,
+      "sp02": 96,
+      "pulse": 108,
+      "temperature": 38,
+      "bloodPressure": 195,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 89,
+    "location": [
+      {
+        "bridge": {
+          "id": "0SbYJAa4Y",
+          "msid": 332321531,
+          "type": 6300939163,
+          "typeVer": 7,
+          "key": "Ka9of",
+          "tic": "jryY4lN2IR"
+        },
+        "signal": -37
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.060955",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 95,
+      "pulse": 118,
+      "temperature": 38,
+      "bloodPressure": 200,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 88,
+    "location": [
+      {
+        "bridge": {
+          "id": "3hEdecQ0O",
+          "msid": 758124505,
+          "type": 2000323397,
+          "typeVer": 6,
+          "key": "sZ9Bu",
+          "tic": "LiYREXaBu1"
+        },
+        "signal": -54
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.061953",
+    "sensorData": {
+      "respiration": 21,
+      "sp02": 95,
+      "pulse": 92,
+      "temperature": 37,
+      "bloodPressure": 125,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 98,
+    "location": [
+      {
+        "bridge": {
+          "id": "VpxRKGgrp",
+          "msid": 523441860,
+          "type": 754142038,
+          "typeVer": 6,
+          "key": "Fg35q",
+          "tic": "ManwVhepMa"
+        },
+        "signal": -69
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.061953",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 93,
+      "pulse": 108,
+      "temperature": 37,
+      "bloodPressure": 144,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 79,
+    "location": [
+      {
+        "bridge": {
+          "id": "rORVpEVWj",
+          "msid": 56912193,
+          "type": 5565528862,
+          "typeVer": 4,
+          "key": "hjfLn",
+          "tic": "HnejElEx6F"
+        },
+        "signal": -70
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.062950",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 98,
+      "pulse": 123,
+      "temperature": 39,
+      "bloodPressure": 97,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 1,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 93,
+    "location": [
+      {
+        "bridge": {
+          "id": "GNYSxmGKO",
+          "msid": 954208905,
+          "type": 745192395,
+          "typeVer": 7,
+          "key": "J3USU",
+          "tic": "BcGzzdnXM4"
+        },
+        "signal": -60
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.063950",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 92,
+      "pulse": 129,
+      "temperature": 36,
+      "bloodPressure": 215,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 91,
+    "location": [
+      {
+        "bridge": {
+          "id": "lhItL8ID3",
+          "msid": 921927678,
+          "type": 493571298,
+          "typeVer": 0,
+          "key": "ZUpx5",
+          "tic": "xNnhaFuzGk"
+        },
+        "signal": -65
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.064948",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 94,
+      "pulse": 112,
+      "temperature": 38,
+      "bloodPressure": 93,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 0,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 94,
+    "location": [
+      {
+        "bridge": {
+          "id": "lOgJJwg0P",
+          "msid": 956467248,
+          "type": 1874729294,
+          "typeVer": 0,
+          "key": "56QiO",
+          "tic": "yPIKImx5SM"
+        },
+        "signal": -50
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.066941",
+    "sensorData": {
+      "respiration": 8,
+      "sp02": 95,
+      "pulse": 56,
+      "temperature": 35,
+      "bloodPressure": 149,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 7
+    },
+    "batteryLevel": 94,
+    "location": [
+      {
+        "bridge": {
+          "id": "0wFDvnWRu",
+          "msid": 41311348,
+          "type": 2048987992,
+          "typeVer": 5,
+          "key": "zOI64",
+          "tic": "qHfEFpwuAo"
+        },
+        "signal": -59
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.067937",
+    "sensorData": {
+      "respiration": 22,
+      "sp02": 96,
+      "pulse": 114,
+      "temperature": 36,
+      "bloodPressure": 107,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 1,
+      "bloodPressure": 1,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 83,
+    "location": [
+      {
+        "bridge": {
+          "id": "HL0W3AtbQ",
+          "msid": 666590075,
+          "type": 5766117240,
+          "typeVer": 1,
+          "key": "dK1PT",
+          "tic": "1ZMrWG133m"
+        },
+        "signal": -30
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.068934",
+    "sensorData": {
+      "respiration": 23,
+      "sp02": 95,
+      "pulse": 93,
+      "temperature": 38,
+      "bloodPressure": 184,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 94,
+    "location": [
+      {
+        "bridge": {
+          "id": "wBvA7XPn0",
+          "msid": 748003464,
+          "type": 6711214581,
+          "typeVer": 1,
+          "key": "pdY0o",
+          "tic": "Gt4oSdGljy"
+        },
+        "signal": -56
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.068934",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 95,
+      "pulse": 84,
+      "temperature": 35,
+      "bloodPressure": 154,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "LNVtvNVEN",
+          "msid": 606416094,
+          "type": 446582359,
+          "typeVer": 9,
+          "key": "SrK1a",
+          "tic": "pn5dXkfBbg"
+        },
+        "signal": -36
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.071459",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 92,
+      "pulse": 128,
+      "temperature": 38,
+      "bloodPressure": 134,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 81,
+    "location": [
+      {
+        "bridge": {
+          "id": "KFuxPleHk",
+          "msid": 153664169,
+          "type": 6283786828,
+          "typeVer": 4,
+          "key": "jlgV2",
+          "tic": "xFgOd8dQXG"
+        },
+        "signal": -69
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.073449",
+    "sensorData": {
+      "respiration": 13,
+      "sp02": 95,
+      "pulse": 79,
+      "temperature": 39,
+      "bloodPressure": 180,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 91,
+    "location": [
+      {
+        "bridge": {
+          "id": "OBLXCCy6V",
+          "msid": 516630423,
+          "type": 7493830914,
+          "typeVer": 1,
+          "key": "Lsfqd",
+          "tic": "hLCoKlXL98"
+        },
+        "signal": -44
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.075446",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 98,
+      "pulse": 46,
+      "temperature": 38,
+      "bloodPressure": 140,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 84,
+    "location": [
+      {
+        "bridge": {
+          "id": "w1YqL0KYY",
+          "msid": 305191352,
+          "type": 731117195,
+          "typeVer": 0,
+          "key": "01LGu",
+          "tic": "Gxss7E0a2c"
+        },
+        "signal": -63
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.076443",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 91,
+      "pulse": 121,
+      "temperature": 38,
+      "bloodPressure": 201,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 3,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 84,
+    "location": [
+      {
+        "bridge": {
+          "id": "SGnhWzCCC",
+          "msid": 481659668,
+          "type": 188522536,
+          "typeVer": 1,
+          "key": "eg6aJ",
+          "tic": "V37EHbYjeL"
+        },
+        "signal": -59
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.077441",
+    "sensorData": {
+      "respiration": 11,
+      "sp02": 98,
+      "pulse": 117,
+      "temperature": 35,
+      "bloodPressure": 115,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 87,
+    "location": [
+      {
+        "bridge": {
+          "id": "shjLOvquK",
+          "msid": 128640592,
+          "type": 7615399350,
+          "typeVer": 6,
+          "key": "6zwRs",
+          "tic": "mo6YaZPkyS"
+        },
+        "signal": -35
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.077441",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 94,
+      "pulse": 58,
+      "temperature": 36,
+      "bloodPressure": 143,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 86,
+    "location": [
+      {
+        "bridge": {
+          "id": "r4duxknY9",
+          "msid": 867086192,
+          "type": 952198247,
+          "typeVer": 2,
+          "key": "v7pWb",
+          "tic": "FdvtruARXN"
+        },
+        "signal": -43
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.077441",
+    "sensorData": {
+      "respiration": 21,
+      "sp02": 91,
+      "pulse": 63,
+      "temperature": 38,
+      "bloodPressure": 136,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 3,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 96,
+    "location": [
+      {
+        "bridge": {
+          "id": "yXwhlCcXx",
+          "msid": 428355642,
+          "type": 8475785177,
+          "typeVer": 7,
+          "key": "Wim7N",
+          "tic": "bsha8nDiCu"
+        },
+        "signal": -38
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.078438",
+    "sensorData": {
+      "respiration": 17,
+      "sp02": 98,
+      "pulse": 113,
+      "temperature": 35,
+      "bloodPressure": 125,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 98,
+    "location": [
+      {
+        "bridge": {
+          "id": "dBLt3vUNb",
+          "msid": 174498361,
+          "type": 3219590159,
+          "typeVer": 9,
+          "key": "Z5vee",
+          "tic": "W3tlJYoFZp"
+        },
+        "signal": -53
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.078438",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 98,
+      "pulse": 88,
+      "temperature": 38,
+      "bloodPressure": 161,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 94,
+    "location": [
+      {
+        "bridge": {
+          "id": "wHDAujxhp",
+          "msid": 615724505,
+          "type": 8004797999,
+          "typeVer": 0,
+          "key": "SQpIH",
+          "tic": "WLUa8z2Elq"
+        },
+        "signal": -66
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.079434",
+    "sensorData": {
+      "respiration": 17,
+      "sp02": 98,
+      "pulse": 126,
+      "temperature": 35,
+      "bloodPressure": 101,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 1,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 80,
+    "location": [
+      {
+        "bridge": {
+          "id": "7OKZowlZU",
+          "msid": 306856229,
+          "type": 8126770627,
+          "typeVer": 8,
+          "key": "LFtOK",
+          "tic": "kdBNNhmtgD"
+        },
+        "signal": -47
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.079434",
+    "sensorData": {
+      "respiration": 25,
+      "sp02": 97,
+      "pulse": 48,
+      "temperature": 35,
+      "bloodPressure": 125,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 7
+    },
+    "batteryLevel": 87,
+    "location": [
+      {
+        "bridge": {
+          "id": "b12BLmXaH",
+          "msid": 855201817,
+          "type": 8541202484,
+          "typeVer": 8,
+          "key": "AIoq0",
+          "tic": "KPgVyWhc8C"
+        },
+        "signal": -56
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.080432",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 93,
+      "pulse": 80,
+      "temperature": 37,
+      "bloodPressure": 121,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 77,
+    "location": [
+      {
+        "bridge": {
+          "id": "MZ6Lf4SWm",
+          "msid": 334042517,
+          "type": 2224908822,
+          "typeVer": 6,
+          "key": "gXoVb",
+          "tic": "OyHJ00RfA9"
+        },
+        "signal": -60
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.080432",
+    "sensorData": {
+      "respiration": 8,
+      "sp02": 98,
+      "pulse": 77,
+      "temperature": 37,
+      "bloodPressure": 90,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 3,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 73,
+    "location": [
+      {
+        "bridge": {
+          "id": "VPFwiH1YU",
+          "msid": 2010887,
+          "type": 9740186042,
+          "typeVer": 8,
+          "key": "luuhu",
+          "tic": "Y6WInMOk37"
+        },
+        "signal": -69
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.081430",
+    "sensorData": {
+      "respiration": 16,
+      "sp02": 95,
+      "pulse": 128,
+      "temperature": 35,
+      "bloodPressure": 134,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 78,
+    "location": [
+      {
+        "bridge": {
+          "id": "81BTgp7Wf",
+          "msid": 429293609,
+          "type": 5707041745,
+          "typeVer": 8,
+          "key": "Z6gw5",
+          "tic": "4mQygdlGKk"
+        },
+        "signal": -38
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.081430",
+    "sensorData": {
+      "respiration": 13,
+      "sp02": 99,
+      "pulse": 99,
+      "temperature": 38,
+      "bloodPressure": 126,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 89,
+    "location": [
+      {
+        "bridge": {
+          "id": "MiBDHHFny",
+          "msid": 900825904,
+          "type": 4593176855,
+          "typeVer": 6,
+          "key": "J6Wq6",
+          "tic": "qlNgIo2eP1"
+        },
+        "signal": -45
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.081430",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 94,
+      "pulse": 66,
+      "temperature": 38,
+      "bloodPressure": 177,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 96,
+    "location": [
+      {
+        "bridge": {
+          "id": "QddCjhgSX",
+          "msid": 256985445,
+          "type": 8684906999,
+          "typeVer": 1,
+          "key": "kmQcg",
+          "tic": "1hZpzz3AxU"
+        },
+        "signal": -67
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.082833",
+    "sensorData": {
+      "respiration": 8,
+      "sp02": 93,
+      "pulse": 123,
+      "temperature": 35,
+      "bloodPressure": 107,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 3,
+      "bloodPressure": 1,
+      "motion": true,
+      "overall": 11
+    },
+    "batteryLevel": 98,
+    "location": [
+      {
+        "bridge": {
+          "id": "a6UyG0FWc",
+          "msid": 16768860,
+          "type": 7696154452,
+          "typeVer": 4,
+          "key": "5tMDT",
+          "tic": "RfdiSicTau"
+        },
+        "signal": -56
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.083826",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 96,
+      "pulse": 115,
+      "temperature": 36,
+      "bloodPressure": 126,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 99,
+    "location": [
+      {
+        "bridge": {
+          "id": "HNJtiejRu",
+          "msid": 389207162,
+          "type": 7224828403,
+          "typeVer": 0,
+          "key": "DoCi7",
+          "tic": "cWVWvGkUal"
+        },
+        "signal": -32
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.084824",
+    "sensorData": {
+      "respiration": 22,
+      "sp02": 94,
+      "pulse": 130,
+      "temperature": 38,
+      "bloodPressure": 191,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 89,
+    "location": [
+      {
+        "bridge": {
+          "id": "ZxLGIp0D7",
+          "msid": 329165233,
+          "type": 7545124862,
+          "typeVer": 7,
+          "key": "KQKBj",
+          "tic": "it6pPMc5Lr"
+        },
+        "signal": -33
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.085821",
+    "sensorData": {
+      "respiration": 15,
+      "sp02": 99,
+      "pulse": 127,
+      "temperature": 37,
+      "bloodPressure": 93,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 0,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "2J4QUizuB",
+          "msid": 873636710,
+          "type": 147102963,
+          "typeVer": 7,
+          "key": "BbXv0",
+          "tic": "czQpnoZGr8"
+        },
+        "signal": -42
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.085821",
+    "sensorData": {
+      "respiration": 9,
+      "sp02": 98,
+      "pulse": 71,
+      "temperature": 37,
+      "bloodPressure": 214,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 87,
+    "location": [
+      {
+        "bridge": {
+          "id": "wHP9DvSRZ",
+          "msid": 528845122,
+          "type": 6516293908,
+          "typeVer": 5,
+          "key": "nhp2l",
+          "tic": "MBBma0PXts"
+        },
+        "signal": -50
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.086817",
+    "sensorData": {
+      "respiration": 11,
+      "sp02": 97,
+      "pulse": 94,
+      "temperature": 36,
+      "bloodPressure": 95,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 2,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 89,
+    "location": [
+      {
+        "bridge": {
+          "id": "C8reK4mpu",
+          "msid": 626935403,
+          "type": 7393928456,
+          "typeVer": 1,
+          "key": "vwI3U",
+          "tic": "BYLpY0YhFi"
+        },
+        "signal": -53
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.087814",
+    "sensorData": {
+      "respiration": 22,
+      "sp02": 94,
+      "pulse": 101,
+      "temperature": 38,
+      "bloodPressure": 135,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 94,
+    "location": [
+      {
+        "bridge": {
+          "id": "bYOjIqVUe",
+          "msid": 771526884,
+          "type": 3030352243,
+          "typeVer": 2,
+          "key": "cVovF",
+          "tic": "7FPgV2f3qu"
+        },
+        "signal": -34
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.088812",
+    "sensorData": {
+      "respiration": 20,
+      "sp02": 92,
+      "pulse": 50,
+      "temperature": 35,
+      "bloodPressure": 129,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 95,
+    "location": [
+      {
+        "bridge": {
+          "id": "yAn46cYcb",
+          "msid": 443996536,
+          "type": 5370207893,
+          "typeVer": 6,
+          "key": "JSy2M",
+          "tic": "iwUeml24CM"
+        },
+        "signal": -70
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.089809",
+    "sensorData": {
+      "respiration": 23,
+      "sp02": 92,
+      "pulse": 99,
+      "temperature": 38,
+      "bloodPressure": 163,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 96,
+    "location": [
+      {
+        "bridge": {
+          "id": "i4bDqJ4gy",
+          "msid": 105682255,
+          "type": 7759248831,
+          "typeVer": 4,
+          "key": "u3kzm",
+          "tic": "VSduVsO4Pw"
+        },
+        "signal": -44
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.089809",
+    "sensorData": {
+      "respiration": 17,
+      "sp02": 95,
+      "pulse": 111,
+      "temperature": 39,
+      "bloodPressure": 178,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 84,
+    "location": [
+      {
+        "bridge": {
+          "id": "Pta4ka5fu",
+          "msid": 869297729,
+          "type": 3202875514,
+          "typeVer": 4,
+          "key": "jEN24",
+          "tic": "g14nqBEsI0"
+        },
+        "signal": -60
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.090806",
+    "sensorData": {
+      "respiration": 11,
+      "sp02": 94,
+      "pulse": 84,
+      "temperature": 35,
+      "bloodPressure": 181,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 89,
+    "location": [
+      {
+        "bridge": {
+          "id": "EATJdfmwh",
+          "msid": 339519269,
+          "type": 5083778692,
+          "typeVer": 9,
+          "key": "9AMrT",
+          "tic": "WtGVeIqgSV"
+        },
+        "signal": -33
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.091803",
+    "sensorData": {
+      "respiration": 24,
+      "sp02": 99,
+      "pulse": 127,
+      "temperature": 37,
+      "bloodPressure": 144,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 2,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 87,
+    "location": [
+      {
+        "bridge": {
+          "id": "l3hy0PqRI",
+          "msid": 40072897,
+          "type": 9767518713,
+          "typeVer": 6,
+          "key": "5KRTM",
+          "tic": "B8JeO1Y17c"
+        },
+        "signal": -47
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.092801",
+    "sensorData": {
+      "respiration": 24,
+      "sp02": 92,
+      "pulse": 70,
+      "temperature": 36,
+      "bloodPressure": 185,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 80,
+    "location": [
+      {
+        "bridge": {
+          "id": "OykKD4dxM",
+          "msid": 173614421,
+          "type": 9999756825,
+          "typeVer": 8,
+          "key": "v2jwB",
+          "tic": "lyUo4Utl5r"
+        },
+        "signal": -54
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.092801",
+    "sensorData": {
+      "respiration": 12,
+      "sp02": 95,
+      "pulse": 95,
+      "temperature": 35,
+      "bloodPressure": 119,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 82,
+    "location": [
+      {
+        "bridge": {
+          "id": "5Y6y4AbaA",
+          "msid": 838997858,
+          "type": 740643373,
+          "typeVer": 9,
+          "key": "NDEG4",
+          "tic": "xznMHk73QB"
+        },
+        "signal": -57
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.093800",
+    "sensorData": {
+      "respiration": 23,
+      "sp02": 99,
+      "pulse": 56,
+      "temperature": 38,
+      "bloodPressure": 200,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 83,
+    "location": [
+      {
+        "bridge": {
+          "id": "aAqF73KKQ",
+          "msid": 948973736,
+          "type": 4002422747,
+          "typeVer": 6,
+          "key": "2PfQ7",
+          "tic": "0eFFf8OXXt"
+        },
+        "signal": -49
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.093800",
+    "sensorData": {
+      "respiration": 25,
+      "sp02": 92,
+      "pulse": 54,
+      "temperature": 38,
+      "bloodPressure": 145,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 88,
+    "location": [
+      {
+        "bridge": {
+          "id": "IpgOyEWE1",
+          "msid": 876270611,
+          "type": 3875693447,
+          "typeVer": 0,
+          "key": "WzNb9",
+          "tic": "FepYCtijvE"
+        },
+        "signal": -47
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.094798",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 95,
+      "pulse": 99,
+      "temperature": 37,
+      "bloodPressure": 204,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 82,
+    "location": [
+      {
+        "bridge": {
+          "id": "7iCg94H98",
+          "msid": 140010626,
+          "type": 7922204226,
+          "typeVer": 4,
+          "key": "MtKjI",
+          "tic": "3tA5LDnnNO"
+        },
+        "signal": -50
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.094798",
+    "sensorData": {
+      "respiration": 21,
+      "sp02": 96,
+      "pulse": 62,
+      "temperature": 39,
+      "bloodPressure": 171,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 97,
+    "location": [
+      {
+        "bridge": {
+          "id": "aNjG56Rwu",
+          "msid": 932766212,
+          "type": 7577787841,
+          "typeVer": 3,
+          "key": "zD6Ra",
+          "tic": "8eZxcf1nDU"
+        },
+        "signal": -62
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.095793",
+    "sensorData": {
+      "respiration": 19,
+      "sp02": 93,
+      "pulse": 51,
+      "temperature": 37,
+      "bloodPressure": 119,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 2
+    },
+    "batteryLevel": 93,
+    "location": [
+      {
+        "bridge": {
+          "id": "kgBbvFXmQ",
+          "msid": 389813943,
+          "type": 2683342651,
+          "typeVer": 6,
+          "key": "Snl94",
+          "tic": "4CBx8IwHmB"
+        },
+        "signal": -62
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.095793",
+    "sensorData": {
+      "respiration": 11,
+      "sp02": 94,
+      "pulse": 44,
+      "temperature": 36,
+      "bloodPressure": 151,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 95,
+    "location": [
+      {
+        "bridge": {
+          "id": "D615PeSGC",
+          "msid": 720829695,
+          "type": 92296383,
+          "typeVer": 5,
+          "key": "WEAT2",
+          "tic": "z3wu8G7hnh"
+        },
+        "signal": -67
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.095793",
+    "sensorData": {
+      "respiration": 18,
+      "sp02": 96,
+      "pulse": 43,
+      "temperature": 35,
+      "bloodPressure": 113,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 74,
+    "location": [
+      {
+        "bridge": {
+          "id": "Z4Htdlkpo",
+          "msid": 980840610,
+          "type": 9402943129,
+          "typeVer": 8,
+          "key": "vrx10",
+          "tic": "mNVbLQfVKV"
+        },
+        "signal": -66
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.096793",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 94,
+      "pulse": 104,
+      "temperature": 36,
+      "bloodPressure": 194,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 92,
+    "location": [
+      {
+        "bridge": {
+          "id": "PfeU5BoxD",
+          "msid": 190705604,
+          "type": 6170450019,
+          "typeVer": 4,
+          "key": "cc50w",
+          "tic": "qBhFeFqGkb"
+        },
+        "signal": -43
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.096793",
+    "sensorData": {
+      "respiration": 21,
+      "sp02": 99,
+      "pulse": 81,
+      "temperature": 35,
+      "bloodPressure": 172,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 2,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 3,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 97,
+    "location": [
+      {
+        "bridge": {
+          "id": "0rbIWezSZ",
+          "msid": 965012343,
+          "type": 8350195583,
+          "typeVer": 0,
+          "key": "8T4d6",
+          "tic": "6cJcnbFzja"
+        },
+        "signal": -39
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.097789",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 91,
+      "pulse": 98,
+      "temperature": 38,
+      "bloodPressure": 149,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 3,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 5
+    },
+    "batteryLevel": 95,
+    "location": [
+      {
+        "bridge": {
+          "id": "heQz8gigG",
+          "msid": 249627546,
+          "type": 3213887200,
+          "typeVer": 4,
+          "key": "Hn132",
+          "tic": "6uAkgceBrY"
+        },
+        "signal": -60
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.097789",
+    "sensorData": {
+      "respiration": 10,
+      "sp02": 96,
+      "pulse": 81,
+      "temperature": 37,
+      "bloodPressure": 152,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 1,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 1
+    },
+    "batteryLevel": 90,
+    "location": [
+      {
+        "bridge": {
+          "id": "bIPDmKqoY",
+          "msid": 960038382,
+          "type": 2684803971,
+          "typeVer": 5,
+          "key": "UOYfb",
+          "tic": "6u5xB0f9iP"
+        },
+        "signal": -35
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.098786",
+    "sensorData": {
+      "respiration": 16,
+      "sp02": 94,
+      "pulse": 101,
+      "temperature": 39,
+      "bloodPressure": 125,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 1,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 96,
+    "location": [
+      {
+        "bridge": {
+          "id": "CpP25BkfW",
+          "msid": 628325738,
+          "type": 3646071132,
+          "typeVer": 0,
+          "key": "Jn2Tn",
+          "tic": "QZNF9mBotR"
+        },
+        "signal": -69
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.099848",
+    "sensorData": {
+      "respiration": 25,
+      "sp02": 91,
+      "pulse": 74,
+      "temperature": 38,
+      "bloodPressure": 124,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 3,
+      "sp02": 3,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 6
+    },
+    "batteryLevel": 80,
+    "location": [
+      {
+        "bridge": {
+          "id": "WDmqGWuMY",
+          "msid": 796794808,
+          "type": 1359897930,
+          "typeVer": 3,
+          "key": "fwJZ8",
+          "tic": "AYQwhi16t5"
+        },
+        "signal": -58
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.100782",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 98,
+      "pulse": 59,
+      "temperature": 37,
+      "bloodPressure": 155,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 0,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 0
+    },
+    "batteryLevel": 87,
+    "location": [
+      {
+        "bridge": {
+          "id": "VYlRPg7ie",
+          "msid": 454030110,
+          "type": 9191025877,
+          "typeVer": 5,
+          "key": "q1ZPA",
+          "tic": "cSOWVhHDDd"
+        },
+        "signal": -41
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.100782",
+    "sensorData": {
+      "respiration": 16,
+      "sp02": 95,
+      "pulse": 40,
+      "temperature": 38,
+      "bloodPressure": 120,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 1,
+      "onOxygen": true,
+      "pulse": 3,
+      "temperature": 0,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 4
+    },
+    "batteryLevel": 93,
+    "location": [
+      {
+        "bridge": {
+          "id": "P7BXhyN2k",
+          "msid": 769228516,
+          "type": 9797281976,
+          "typeVer": 4,
+          "key": "z72LB",
+          "tic": "T3BQ33T9Ih"
+        },
+        "signal": -68
+      }
+    ]
+  },
+  {
+    "time": "2021-04-18 16:53:11.100782",
+    "sensorData": {
+      "respiration": 14,
+      "sp02": 92,
+      "pulse": 81,
+      "temperature": 39,
+      "bloodPressure": 157,
+      "motion": true,
+      "proximity": false
+    },
+    "news2": {
+      "respiration": 0,
+      "sp02": 2,
+      "onOxygen": true,
+      "pulse": 0,
+      "temperature": 1,
+      "bloodPressure": 0,
+      "motion": true,
+      "overall": 3
+    },
+    "batteryLevel": 92,
+    "location": [
+      {
+        "bridge": {
+          "id": "5zKXFKw4V",
+          "msid": 729584287,
+          "type": 1166769151,
+          "typeVer": 4,
+          "key": "SzUVm",
+          "tic": "ZNaz04FgPx"
+        },
+        "signal": -64
+      }
+    ]
+  }
+]

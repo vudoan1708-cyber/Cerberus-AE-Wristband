@@ -1,0 +1,92 @@
+[
+  {
+    "tic": "2",
+    "name": "Vu Doan",
+    "dateOfBirth": "17-08-1998",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Quince Gore-Rodney",
+    "dateOfBirth": "02-12-1997",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Donata Lesiak",
+    "dateOfBirth": "16-08-1997",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Shrek Gortrud",
+    "dateOfBirth": "03-11-1995",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Kid Putowski",
+    "dateOfBirth": "15-03-2001",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": true,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Andrew",
+    "dateOfBirth": "06-03-1990",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Mike Hannigan",
+    "dateOfBirth": "05-02-1993",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Emma Geller-Green",
+    "dateOfBirth": "21-05-1997",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Rachel Green",
+    "dateOfBirth": "10-08-1996",
+    "onOxygen": false,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  },
+  {
+    "tic": "2",
+    "name": "Monica Geller-Bing",
+    "dateOfBirth": "12-02-1990",
+    "onOxygen": true,
+    "pregnant": false,
+    "child": false,
+    "department": "waiting-room"
+  }
+]

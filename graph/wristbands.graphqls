@@ -1,0 +1,191 @@
+# Cerberus Security Laboratories (c) 2020
+# Wristband UI GraphQL interface definition
+
+"""Node interface"""
+interface Node {
+  id: ID!
+}
+
+"""Active State of A Band"""
+type Active implements Node {
+  id: ID!
+  active: Boolean!
+}
+
+"""All information for a specific health wristband"""
+type Wristband implements Node & TitanComponent {
+  id: ID!
+  msid: Int!
+  type: Int!
+  typeVer: Int!
+  key: String!
+  tic: String!
+  active: Boolean!
+  activated: DateTime
+  deactivated: DateTime
+  data: [WristbandData!]
+  name: String # TBD Do we want this to be firstName, lastName?
+  dateOfBirth: String!
+  onOxygen: Boolean!
+  pregnant: Boolean!
+  child: Boolean!
+  department: String!
+}
+
+"""A Bridge is the RF to ethernet converter"""
+type Bridge implements Node & TitanComponent {
+  id: ID!
+  msid: Int!
+  type: Int!
+  typeVer: Int!
+  key: String!
+  tic: String!
+}
+
+"""A Gateway is the server that receives the data from the Wristbands"""
+type Gateway implements Node & TitanComponent {
+  id: ID!
+  msid: Int!
+  type: Int!
+  typeVer: Int!
+  key: String!
+  tic: String!
+}
+
+"""Bridge signal strength as recorded by the Wristband"""
+type BridgeSignal {
+  bridge: Bridge!
+  signal: Int!
+}
+
+"""Data captured from the Wristband sensors"""
+type WristbandSensorData {
+  respiration: Int!
+  sp02: Int!
+  pulse: Int!
+  temperature: Float!
+  bloodPressure: Int!
+  motion: Boolean!
+  proximity: Boolean!
+}
+
+"""Calculated NEWS2 scores"""
+type News2 {
+  respiration: Int!
+  sp02: Int!
+  onOxygen: Boolean!
+  pulse: Int!
+  temperature: Int!
+  bloodPressure: Int
+  motion: Boolean!
+  overall: Int!
+}
+
+"""Data captured by the wristband at a specific time"""
+type WristbandData implements Node {
+  id: ID!
+  wristband: Wristband!
+  time: DateTime!
+  sensorData: WristbandSensorData!
+  news2: News2!
+  location: [BridgeSignal!]
+  batteryLevel: Int!
+}
+
+"""Alert driven by Individual Vital Scores"""
+type Alert implements Node {
+  id: ID!
+  sensorData: WristbandSensorData!
+  level: String!
+  target: String!
+  overallLevel: String!
+  overall: Int!
+  trend: String!
+}
+
+type Level implements Node {
+  id: ID!
+  text: String!
+}
+"""Summary of All Emergency Levels"""
+type Summary {
+  high: Int!
+  medium: Int!
+  lowMedium: Int!
+  low: Int!
+  other: Int!
+}
+
+"""Queries available through this API"""
+type Query {
+  node(
+    """The ID of the object"""
+    id: ID!
+  ): Node
+  getWristband(id:ID): Wristband!
+  getBridge(id:ID): Bridge!
+  getGateway(id:ID): Gateway!
+  getWristbandData(id:ID = -1, how:String): WristbandData!
+  getWristbands: [Wristband!]
+  getImportantBands: [Wristband!]
+  getMultipleWristbandData(id:ID, howMany:Int, start:Int, end:Int): [WristbandData!]
+  getSummary: Summary!
+  getAlert: Alert!
+  getBridges: [Bridge!]!
+  getGateways: [Gateway!]!
+}
+
+"""Input payload for adding a Wristband"""
+input AddWristbandInput {
+  tic: String!
+  name: String
+  dateOfBirth: String!
+  onOxygen: Boolean!
+  pregnant: Boolean!
+  child: Boolean!
+  department: String!
+}
+
+"""Input payload for moving a Wristband"""
+input MoveWristbandInput {
+  department: String!
+}
+
+"""Input payload for deactivating a Wristband"""
+input DeactivateWristbandInput {
+  id: ID!
+}
+
+"""Mutations avialable through this API"""
+type Mutation {
+  "Wristband"
+  addWristband(input: AddWristbandInput!): Wristband!
+  deactivateWristband(input: DeactivateWristbandInput!): Wristband!
+  reactivateWristband(input: DeactivateWristbandInput!): Wristband!
+  reassignNewWristband(oldWristband: DeactivateWristbandInput!): Wristband!
+  "Set New Info"
+  resetName(id: ID!, value: String!): Wristband!
+  resetOnOxygen(id: ID!, value: Boolean!): Wristband!
+  resetPregnant(id: ID!, value: Boolean!): Wristband!
+  resetChild(id: ID!, value: Boolean!): Wristband!
+  resetDepartment(id: ID!, value: String!): Wristband!
+  resetMultipleFields(id: ID!, options: [String!]!, values: [String!]!): Wristband!
+}
+
+"""Subscription avialable through this API"""
+type Subscription {
+  updateWristbandAdded: Wristband!
+  updateWristbandData(id: ID): WristbandData!
+  updateWristbandDataAlert(id: ID): Alert!
+  
+  "Return The Level of Each Wristband in a String Form, with Accompanying Wristband ID, Use This To Add Up Number of Levels of All Bands in The Frontend Code"
+  updateLevel(id: ID): Level!
+  updateSummary: Summary!
+
+  # updateWristbandNews2(id: ID): News2!
+  "Return All Bands But Low News 2 Score"
+  updateImportantBands: [Wristband!]!
+
+  "Wristband Active State Subscription"
+  updateWristbandActive(id: ID): Active!
+}

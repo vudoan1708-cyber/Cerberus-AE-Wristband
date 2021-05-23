@@ -1,0 +1,93 @@
+[
+    {
+        "time": "",
+        "sensorData": {
+            "respiration": 82,
+            "sp02": 1,
+            "pulse": 407,
+            "temperature": 53,
+            "motion": 8,
+            "proximity": true
+        },
+        "news2": {
+            "respiration": 82,
+            "sp02": 1,
+            "airNotOxygen": true,
+            "pulse": 407,
+            "temperature": 53,
+            "motion": 8,
+            "overall": 1499
+        },
+        "batteryLevel": 69,
+        "location": [
+            {
+                "bridge": {
+                    "id": "aWbyyzBaYH",
+                    "msid": 499141551,
+                    "type": 7164083171,
+                    "typeVer": 1,
+                    "key": "thxOC",
+                    "tic": "o8vI5irq2s"
+                },
+                "signal": -35
+            },
+            {
+                "bridge": {
+                    "id": "HwbTHwLhd",
+                    "msid": 783652924,
+                    "type": 7164083171,
+                    "typeVer": 1,
+                    "key": "sfkhj",
+                    "tic": "jkfsjkfjxd"
+                },
+                "signal": -40
+            }
+        ]
+    },
+    {
+        "time": "",
+        "sensorData": {
+            "respiration": 79,
+            "sp02": 5,
+            "pulse": 432,
+            "temperature": 43,
+            "motion": 10,
+            "proximity": true
+        },
+        "news2": {
+            "respiration": 72,
+            "sp02": 13,
+            "airNotOxygen": true,
+            "pulse": 65,
+            "temperature": 36,
+            "motion": 10,
+            "overall": 96
+        },
+        "batteryLevel": 69,
+        "location": [
+            {
+                "bridge": {
+                    "id": "yAJifjeHwnJ",
+                    "msid": 943573498,
+                    "type": 7164083171,
+                    "typeVer": 1,
+                    "key": "thxOC",
+                    "tic": "o8vI5irq2s"
+                },
+                "signal": -35
+            },
+            {
+                "bridge": {
+                    "id": "wALFJdkjWhW",
+                    "msid": 783652924,
+                    "type": 7164083171,
+                    "typeVer": 1,
+                    "key": "sfkhj",
+                    "tic": "jkfsjkfjxd"
+                },
+                "signal": -40
+            }
+        ]
+    }
+]
+

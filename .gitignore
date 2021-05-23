@@ -1,0 +1,5 @@
+# Ignore everything in Go vendor directory except the manifest
+vendor/*
+!vendor/modules.txt
+
+bin

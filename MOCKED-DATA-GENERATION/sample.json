@@ -1,0 +1,37 @@
+[
+    {
+        "time": "2021-01-27 01:02:26.645707",
+        "sensorData": {
+            "respiration": 12,
+            "sp02": 9,
+            "temperature": 36,
+            "bloodPressure": 35,
+            "motion": 7,
+            "proximity": true
+        },
+        "news2": {
+            "respiration": 12,
+            "sp02": 9,
+            "pulse": 669,
+            "temperature": 36,
+            "bloodPressure": 35,
+            "motion": 7,
+            "proximity": true,
+            "overall": 803
+        },
+        "batteryLevel": 96,
+        "location": [
+            {
+                "bridge": {
+                    "id": "DAjMYm7Kf",
+                    "msid": 285168663,
+                    "type": 6574364052,
+                    "typeVer": 8,
+                    "key": "1QaDM",
+                    "tic": "fuOOPbKm1D"
+                },
+                "signal": "-51 dBm"
+            }
+        ]
+    }
+]

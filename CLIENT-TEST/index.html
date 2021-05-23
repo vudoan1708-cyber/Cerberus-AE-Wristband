@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // Websocket Test
+        const URL = 'ws://localhost:8080/api/';
+        const socket = new WebSocket(URL);
+        console.log('Attempting to Connect to Websocket');
+
+        socket.onopen = () => {
+            console.log('Successfully Connected');
+            socket.send('Hello Mate!!!');
+        }
+
+        socket.onclose = (event) => {
+            console.log('Socket Closed Connection: ', event);
+        }
+
+        socket.onerror = (err) => {
+            console.log('Socket Error ', err);
+        }
+
+        // D3 test n(Graphql with Vanilla JS)
+        async function getWristbandData() {
+            
+        }
+    </script>
+</body>
+</html>

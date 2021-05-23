@@ -1,0 +1,14 @@
+# Cerberus Security Laboratories (c) 2020
+# Titan platform GraphQL interface definition
+
+"""An ISO-8601 encoded UTC date string."""
+scalar DateTime
+
+"""All Components in a Titan system have this data"""
+interface TitanComponent {
+  msid: Int!
+  type: Int!
+  typeVer: Int!
+  key: String!
+  tic: String!
+}
